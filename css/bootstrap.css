@@ -2010,10 +2010,6 @@ pre code {
     margin-left: auto
 }
 
-.row {
-    margin-right: -15px;
-    margin-left: -15px
-}
 
 .col-lg-1,
 .col-lg-10,
@@ -7673,19 +7669,6 @@ button.close {
     margin-left: -30%;
     text-align: center;
     list-style: none
-}
-
-.carousel-indicators li {
-    display: inline-block;
-    width: 10px;
-    height: 10px;
-    margin: 1px;
-    text-indent: -999px;
-    cursor: pointer;
-    background-color: #000\9;
-    background-color: rgba(0, 0, 0, 0);
-    border: 1px solid #fff;
-    border-radius: 10px
 }
 
 .carousel-indicators .active {
