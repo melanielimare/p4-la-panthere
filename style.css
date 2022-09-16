@@ -173,6 +173,7 @@ html {
     footer {
     height : 100px;
     background-color : #333333;
+    padding-left: 20px;
     }
     #bloc-5-cta > div > div > h3 {
     color : #FFFFFF;
@@ -542,7 +543,7 @@ html {
     background-image : url("img/agence-la-panthere.avif");
     }
     .bg-presentation {
-    background-image : url("img/image-de-presentation.jpg");
+    background-image : url("img/image-de-presentation.avif");
     }
     [class="text-center hero-bloc-text tc-white"] {
     text-align : center;
