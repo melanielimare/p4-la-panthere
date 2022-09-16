@@ -500,7 +500,7 @@ html {
     background-color : #364577;
     }
     .tc-white {
-    color : #FFFFFF;
+        color :#000000;
     }
     #disqus_thread {
     padding : 10px;
@@ -539,7 +539,7 @@ html {
     background-image : url("img/lines-h2-bg.jpg");
     }
     .bg-banniere {
-    background-image : url("img/agence-la-panthere.jpg");
+    background-image : url("img/agence-la-panthere.avif");
     }
     .bg-presentation {
     background-image : url("img/image-de-presentation.jpg");
