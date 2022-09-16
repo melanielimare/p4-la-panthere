@@ -436,6 +436,7 @@ html {
     .h1 {
     font-size : 20px;
     font-family : "Open Sans";
+    color:#FFFFFF;
     }
     .cta-hero {
     margin-top : 22px;
@@ -501,7 +502,7 @@ html {
     background-color : #364577;
     }
     .tc-white {
-        color :#000000;
+        color :#FFFFFF;
     }
     #disqus_thread {
     padding : 10px;
