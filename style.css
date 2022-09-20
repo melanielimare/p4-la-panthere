@@ -163,8 +163,7 @@ html {
     position : relative;
     z-index : 2;
     }
-    div .form-group {
-   
+    div .form-group { 
     padding-bottom : 40px;
     display : flex;
     flex-direction : column;
@@ -300,6 +299,7 @@ html {
     .form-control {
     border-color : rgb(0, 0, 0, 0.1);
     box-shadow : none;
+    padding-bottom: 50px;
     }
     .scrollToTop {
     width : 40px;
