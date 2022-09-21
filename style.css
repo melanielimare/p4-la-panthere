@@ -735,6 +735,7 @@ html {
     }
     .btn-atomic-tangerine {
     width : 50%;
+    margin: auto;
     }
     footer div {
     display : flex;
