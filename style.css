@@ -29,8 +29,14 @@ html {
     footer a {
     color : #FFFFFF;
     }
-    #bloc-7 > div > div > div:nth-child(2) > p {
-    font-size : 1.5rem;
+    li {
+    font-size : 20px;
+    text-decoration: underline;
+    list-style: none;
+    }
+
+    #bloc-7 > div > div > div:nth-child(1) > form > div:nth-child(4) > label > input[type=text]{
+        padding-bottom: 50px;
     }
     .bloc {
     width : 100%;
@@ -169,10 +175,11 @@ html {
     flex-direction : column;
     padding-left : 0;
     }
+  
     footer {
     height : 100px;
     background-color : #333333;
-    padding-left: 20px;
+   
     }
     #bloc-5-cta > div > div > h3 {
     color : #FFFFFF;
@@ -297,7 +304,7 @@ html {
     border-radius : 0 0 29px 29px;
     }
     .form-control {
-    border-color : rgb(0, 0, 0, 0.1);
+    border-color : #000000;
     box-shadow : none;
     padding-bottom: 50px;
     }
@@ -472,6 +479,9 @@ html {
     color : #000000;
     text-decoration : underline;
     }
+    #bloc-8 > div{
+        width:100%;
+    }
     .icons {
     margin-bottom : 14px;
     margin-top : 24px;
@@ -514,8 +524,7 @@ html {
     background-color : #575757;
     color : #FFFFFF;
     font-size : 2rem;  
-    display : flex;
-    justify-content : center;
+    margin: auto;
     padding : 12px 18px 12px 18px;
     }
     .btn-atomic-tangerine:hover {
@@ -742,6 +751,11 @@ html {
     flex-direction : row;
     justify-content : center;
     }
+
+    body > div > footer > div > div > div > div > div {
+        padding-left: 20px;
+    }
+    
     article img {
     width : 100%;
     }
